@@ -29,6 +29,8 @@
 | vitest | `3.2.4` | [https://vitest.dev/](https://vitest.dev/) | MIT | 單元測試框架 |
 | Highcharts | `12.1.2` | [https://www.highcharts.com/](https://www.highcharts.com/) | Commercial/Non-commercial | 圖表庫 |
 | Highcharts-vue | `2.0.1` | [GitHub](https://github.com/highcharts/highcharts-vue) | MIT | Vue Highcharts 整合 |
+| Element Plus | `2.11.1` | [GitHub](https://github.com/element-plus/element-plus) | MIT | UI元件庫 |
+| `jsBarcode.js` | `3.6.0` | [GitHub](https://github.com/lindell/JsBarcode) | MIT | Barcode 產生器 |
 
 ## ⚙️ 後端 (.NET Core / C#)
 
